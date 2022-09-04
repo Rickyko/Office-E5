@@ -70,9 +70,9 @@ jobs:
 
       env:
 
-        NAME: yc7521
+        NAME: Rickyko
 
-        EMAIL: 752106133@qq.com
+        EMAIL: 1559394740@qq.com
 
       run: |
 
